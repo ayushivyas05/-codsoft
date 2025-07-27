@@ -1,7 +1,5 @@
 # codsoft
-__________________________________'''TASK - 1 CALCULATOR'''__________________________________Here's a simple example of a Calculator program in Python:
-
-
+__________________________________'''TASK - 1 CALCULATOR'''__________________________________
 class Calculator:
     def add(self, num1, num2):
         return num1 + num2
